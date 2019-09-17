@@ -1,2 +1,2 @@
 # blogComment
-Save blog comment 2 issues
+个人主页评论存储，使用gitalk集成。
